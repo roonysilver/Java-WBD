@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaf307b6-e6de-48aa-9348-369b8ae35d3c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TuXs7fo1jZwxe3anaJwcXUrPZC" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="practice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestMyLinkedList">
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbtractandInterface.Comparator.CircleComparatorTest" />
+      <module name="minValue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbtractandInterface.Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListandLinked.MylistTest.MyListTest" />
+      <module name="minValue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListandLinked.MylistTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListandLinked.LinkedList.TestMyLinkedList" />
+      <module name="minValue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListandLinked.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestResizeableCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbtractandInterface.Resizeable.TestResizeableCircle" />
+      <module name="minValue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbtractandInterface.Resizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbtractandInterface.Comparable.comparableCircleTest" />
+      <module name="minValue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbtractandInterface.Comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.TestResizeableCircle" />
+        <item itemvalue="Application.CircleComparatorTest" />
+        <item itemvalue="Application.comparableCircleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf307b6-e6de-48aa-9348-369b8ae35d3c" name="Default Changelist" comment="" />
+      <created>1574311157051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574311157051</updated>
+      <workItem from="1574311159868" duration="726000" />
+      <workItem from="1574341902445" duration="687000" />
+      <workItem from="1574392258395" duration="3070000" />
+      <workItem from="1574491617871" duration="9050000" />
+      <workItem from="1574579526167" duration="4269000" />
+      <workItem from="1574644431043" duration="4495000" />
+      <workItem from="1574692146046" duration="772000" />
+      <workItem from="1574732562383" duration="7407000" />
+      <workItem from="1574772506720" duration="3295000" />
+      <workItem from="1574843043012" duration="3855000" />
+      <workItem from="1574945494181" duration="2953000" />
+      <workItem from="1574990681580" duration="3771000" />
+      <workItem from="1575167774606" duration="2457000" />
+      <workItem from="1575170609937" duration="407000" />
+      <workItem from="1575202447035" duration="5620000" />
+      <workItem from="1575249187495" duration="2545000" />
+      <workItem from="1575337325780" duration="8748000" />
+      <workItem from="1575422460890" duration="2546000" />
+      <workItem from="1575455681234" duration="7943000" />
+      <workItem from="1575524591189" duration="5266000" />
+      <workItem from="1575543615597" duration="3612000" />
+      <workItem from="1575607060596" duration="1004000" />
+      <workItem from="1576383529183" duration="9397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListandLinked/MylistTest/MyListTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
