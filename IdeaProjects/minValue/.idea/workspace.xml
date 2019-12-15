@@ -1,7 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaf307b6-e6de-48aa-9348-369b8ae35d3c" name="Default Changelist" comment="" />
+    <list default="true" id="eaf307b6-e6de-48aa-9348-369b8ae35d3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-WBD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/AbtractInterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparable/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparable/ComparableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparable/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparable/comparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparator/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Comparator/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Resizeable/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Resizeable/TestResizeableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/AbtractandInterface/Resizeable/resizeableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Array/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Array/Min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Array/eraseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Array/findMind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Array/gatherArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ArrayIndexOutOfBoundsException/ArrayExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ArrayIndexOutOfBoundsException/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ArrayIndexOutOfBoundsException/MyClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ArrayIndexOutOfBoundsException/SoNguyen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Circle/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Circle/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Point2Dand3D/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Point2Dand3D/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/PonitandMoveablePoint/MoveablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/PonitandMoveablePoint/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/PonitandMoveablePoint/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Shape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Shape/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Shape/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Triangle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Triangle/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Inheritance/Triangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ListandLinked/LinkedList/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ListandLinked/LinkedList/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ListandLinked/LinkedList/TestMyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ListandLinked/MylistTest/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/ListandLinked/MylistTest/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/META-INF/minValue.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/OOP/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/OOP/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/OOP/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/OOP/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Practice/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Practice/Geometric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Practice/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/Practice/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/practice/MyAbstractList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/minValue/practice/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Comparable/ComparableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Comparable/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Comparable/comparableCircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Comparator/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Comparator/CircleComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Resizeable/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Resizeable/TestResizeableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbtractandInterface/Resizeable/resizeableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/eraseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/findMind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/gatherArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayIndexOutOfBoundsException/ArrayExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayIndexOutOfBoundsException/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayIndexOutOfBoundsException/MyClass2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Point2Dand3D/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/PonitandMoveablePoint/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Triangle/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListandLinked/LinkedList/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListandLinked/LinkedList/TestMyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListandLinked/MylistTest/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListandLinked/MylistTest/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Geometric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/MyAbstractList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/MyList.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +118,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1TuXs7fo1jZwxe3anaJwcXUrPZC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-WBD" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -202,21 +300,26 @@
       <workItem from="1575543615597" duration="3612000" />
       <workItem from="1575607060596" duration="1004000" />
       <workItem from="1576383529183" duration="9397000" />
+      <workItem from="1576416507618" duration="224000" />
+      <workItem from="1576416762058" duration="169000" />
+      <workItem from="1576416957270" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ListandLinked/MylistTest/MyListTest.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
